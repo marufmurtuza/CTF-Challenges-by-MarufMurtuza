@@ -1,0 +1,1 @@
+KCTF{0bfuscat3d_J4v4Scr1pt_aka_JSFuck}
